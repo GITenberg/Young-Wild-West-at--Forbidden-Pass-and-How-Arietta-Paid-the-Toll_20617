@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9416'
     url: http://www.gutenberg.org/2009/agents/9416
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20617#Young-Wild-West-at--Forbidden-Pass-and-How-Arietta-Paid-the-Toll
 gutenberg_issued: '2007-02-18'
 gutenberg_type: Text
 identifiers:
